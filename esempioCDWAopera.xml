@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Oteiza riferimenti iconografici">>
+
+
+		<cdwalite:objectWorkTypeWrap>
+			<cdwalite:objectWorkType termsource="AAT" termsourceID="300178684">pittura ad olio</cdwalite:objectWorkType>
+		</cdwalite:objectWorkTypeWrap>
+
+		<cdwalite:titleWrap>
+			<cdwalite:titleSet>
+				<cdwalite:title pref="preferred" lang="it">Quadrato bianco su fondo bianco</cdwalite:title>
+			</cdwalite:titleSet>
+			<cdwalite:titleSet>
+				<cdwalite:title pref="alternate" lang="in">Composizione suprematista: quadrato bianco su sfondo bianco</cdwalite:title>
+			</cdwalite:titleSet>
+		</cdwalite:titleWrap>
+
+		<cdwalite:indexingCreatorWrap>
+			<cdwalite:indexingCreatorSet>
+				<cdwalite:nameCreatorSet><cdwalite:nameCreator type="personalName" termsource="ULAN" termsourceID="500004959">Kasimir Malevich</cdwalite:nameCreator></cdwalite:nameCreatorSet>
+			</cdwalite:indexingCreatorSet>
+			<cdwalite:nationalityCreator>Russo</cdwalite:nationalityCreator>
+			<cdwalite:vitalDatesCreator birthdate="1878-02-26" deathdate="1935-05-15">Kiev, 23 febbraio 1879 – San Pietroburgo, 15 maggio 1935</cdwalite:vitalDatesCreator>
+			<cdwalite:genderCreator>Maschile</cdwalite:genderCreator>
+			<cdwalite:roleCreator termsource="AAT" termsourceID="300411314">Pittore</cdwalite:roleCreator>
+		</cdwalite:indexingCreatorWrap>
+
+		<cdwalite:displayMeasurements>79,4x79,4 cm</cdwalite:displayMeasurements>
+		<cdwalite:indexingMeasurementsWrap>
+			<cdwalite:indexingMeasurementsSet>
+				<cdwalite:measurementsSet value="79,4" unit="cm" type="height"></cdwalite:measurementsSet>
+				<cdwalite:measurementsSet value="79,4" unit="cm" type="width"></cdwalite:measurementsSet>
+			</cdwalite:indexingMeasurementsSet>
+		</cdwalite:indexingMeasurementsWrap>
+
+		<cdwalite:displayMaterialsTech>olio su tela</cdwalite:displayMaterialsTech>
+		<cdwalite:indexingMaterialsTechWrap>
+			<cdwalite:indexingMaterialsTechSet>
+				<cdwalite:termMaterialsTech termsource="AAT" termsourceID="300178684">pittura ad olio</cdwalite:termMaterialsTech>
+			</cdwalite:indexingMaterialsTechSet>
+		</cdwalite:indexingMaterialsTechWrap>
+
+		<cdwalite:styleWrap>
+			<cdwalite:style termsource="UDC" termsourceID="7.034">Suprematismo</cdwalite:style>
+		</cdwalite:styleWrap>
+
+		<cdwalite:displayCreationDate>1918</cdwalite:displayCreationDate>
+
+		<cdwalite:displayCreationDate>
+			<cdwalite:indexingDatesSet>1918</cdwalite:indexingDatesSet>
+		</cdwalite:displayCreationDate>
+
+		<cdwalite:locationWrap>
+			<cdwalite:locationSet>
+				<cdwalite:locationName type="currentRepository" termsource="CONA" termsourceID="http://vocab.getty.edu/page/cona/700016227">Museum of Modern Art (New York)</cdwalite:locationName>
+			</cdwalite:locationSet>
+		</cdwalite:locationWrap>
+
+        <cdwalite:locationWrap>
+			<cdwalite:locationSet>
+				<cdwalite:workID type="objectId">817.1935</cdwalite:locationName>
+			</cdwalite:locationSet>
+		</cdwalite:locationWrap>
+
+		<cdwalite:descriptiveNoteWrap>
+			<cdwalite:descriptiveNoteSet>
+				<cdwalite:descriptiveNote>Quadrato bianco su sfondo bianco - titolo originale: Composizione suprematista: quadrato bianco su sfondo bianco - è un olio su tela dipinto da Kasimir Malevich nel 1918. Quest'opera è spesso considerata la prima monocromia nella pittura contemporanea ed è stato uno dei dipinti più radicali del suo tempo: un'astrazione geometrica senza riferimento alla realtà esterna. Eppure l'immagine non è impersonale: vediamo la mano dell'artista nella trama della vernice e nelle sottili variazioni dei bianchi. Il quadrato non è esattamente simmetrico, e le sue linee, non esattamente rette, generano una sensazione non di confini che definiscono una forma ma di uno spazio senza limiti. Il dipinto è afferente al movimento del suprematismo. </cdwalite:descriptiveNote>
+			</cdwalite:descriptiveNoteSet>
+		</cdwalite:descriptiveNoteWrap>
+
+		<cdwalite:recordWrap>
+			<cdwalite:recordID>0001</cdwalite:recordID> 
+			<cdwalite:recordType>item</cdwalite:recordType>
+        </cdwalite:recordWrap>
+
+		<cdwalite:resourceWrap>
+			<cdwalite:linkResource type="URI">https://costarosa.github.io/Oteiza_riferimenti_iconografici/esempioCDWAopera.html</cdwalite:linkResource>
+			<cdwalite:resourceID>0001</cdwalite:resourceID>
+			<cdwalite:resourceType termsource="AAT" termsourceID="300215302">immagine digitale</cdwalite:resourceType>
+		</cdwalite:resourceWrap>
+
+	</library>

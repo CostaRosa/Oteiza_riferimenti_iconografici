@@ -1,0 +1,127 @@
+html {scroll-behavior: smooth; -webkit-font-smoothing: antialiased;}
+
+/* elementi comuni a tutte le pagine------------------*/
+header {
+	font-family: 'Montserrat';
+	color: black;
+}
+header a:link {
+	color: black;
+}
+header a:visited {
+	color: grey;
+}
+header h1 {
+	font-family: 'Montserrat';
+	font-size: 47px;
+	color: black;
+	text-align: center;
+}
+
+main h1 {
+	font-family: 'Montserrat';
+	color: white;
+	font-size: 2em
+	padding: 5%
+}
+
+main h2 {
+	font-family: 'Montserrat';
+	color: black;
+	padding: 5%
+}
+main h3, h4, h5 {
+	font-family: 'Montserrat';
+	color: black;
+	padding: 2%
+} 
+main p {
+	font-family: 'Montserrat';
+	color: black;
+	font-size: 1.5em
+	padding: 5%
+}
+main a:link {
+	font-family: 'Montserrat'
+	color: #6b0808;
+}
+main a:visited {
+	color: #6b0808;
+}
+
+div.col-md-12.pb-3.pt-4{
+	background-color: #6b0808;
+}
+
+/* card */
+.card-body .form-check {display: inline; margin-left: 10px;}
+.card-header b > a, .card-text > b > a, li > b > a {color: #61879E;}
+.card-text > span {display: inline-block; width: 200px;}
+aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover {box-shadow: 0px 5px 40px -10px rgba(122, 144, 173, .9); -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);}
+
+/* card tool */
+.card-tool {height: 350px;}
+.card-tool > .card-body > .card-text {height: 215px;}
+.card-tool > .card-body > .btn {display: block; margin: 0 auto;}
+.card-tool > .card-body > h3 {font-size: 1.5em;}
+
+/* card tool media query */
+@media screen and (max-width: 1025px) {
+    .card-tool {height: 550px;}
+    .card-tool > .card-body > .card-text {height: 350px;}
+}
+@media screen and (max-width: 769px) {
+    .card-tool {height: 350px;}
+    .card-tool > .card-body > .card-text {height: 200px;}
+}
+/* tool card ottimizzazione per ipad */
+@media screen and (width: 768px) and (height: 1024px) {
+    .card-tool {height: 500px;}
+    .card-tool > .card-body > .card-text {height: 350px;}
+}
+
+/* card lista */
+.card-item .btn {width: 100%;}
+.card-item > .card-body > .card-metadata {height: 250px;}
+.card-metadata > h4 {font-size: 1.2em;}
+
+@media screen and (max-width: 1025px) {
+    .card-item > .card-body > .card-metadata {height: 400px;}
+}
+
+.card-item img {height: 400px;}
+
+@media screen and (min-width: 575px) and (max-width: 813px) {
+    .card-item img {height: 200px;}
+}
+
+@media screen and (min-width: 2000px) {
+    .card-item img {height: 700px;}
+}
+
+/* card item specifico */
+.btn.btn-light.float-right {margin-top: -7px; width: 150px;}
+.share .btn {width: 100%;}
+.input-number {width: 50px;}
+
+.row {
+	padding-bottom: 2%;
+}
+
+.btn {
+	font-family: 'Montserrat'
+}
+
+footer {
+	font-family: 'Montserrat';
+	color: black;
+	background-color: #f8f9fa;
+	padding: 2%;
+	text-align: left;
+}
+footer a:link {
+	color: grey;
+}
+footer a:visited {
+	color: darkgrey;
+}

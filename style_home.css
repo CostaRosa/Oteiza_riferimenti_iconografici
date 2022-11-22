@@ -1,0 +1,126 @@
+html {scroll-behavior: smooth; -webkit-font-smoothing: antialiased;}
+/* elementi comuni a tutte le pagine------------------*/
+header {
+	font-family: 'Montserrat';
+	color: black;
+}
+header a:link {
+	color: black;
+}
+header a:visited {
+	color: grey;
+}
+header h1 {
+	font-family: 'Montserrat';
+	font-size: 47px;
+	color: black;
+	text-align: center;
+}
+
+.carousel-caption {
+	background-color: rgba(26, 26, 26, .7); 
+	left: 0; right: 0; 
+	width: 100%;
+	float: ;
+}
+.carousel-caption > h1 {
+	text-align: center; color: white; font-size: 2em;
+}
+.carousel-caption > h2 {
+	text-align: center; color: white; font-size: 1.5em;
+}
+.carousel-caption > p {
+	text-align: center; color: white; font-size: 1.0em;
+}
+.carousel-caption > a:link {
+	color: #red;
+}
+.carousel-control-prev, .carousel-control-next {
+	z-index: 10 !important;
+}
+.carousel-control-prev {
+	color: black
+} 
+.carousel-control-next {
+	color: black: z-index: 10 !important;
+}
+.carousel-home img {
+	height: 100vh; width:200vh;
+}
+@media screen and (max-width: 769px) {
+    .carousel-home .carousel-item > img {height: auto;}
+}
+
+main {
+	background-color: white;
+}
+main h2 {
+	font-family: 'Montserrat';
+	color: black;
+	font-size: 1.8em
+	padding: 5%
+}
+main p {
+	font-family: 'Montserrat';
+	color: #6e757c;
+	font-size: 1.5em
+	padding: 5%
+}
+main a:link {
+	color: #6b0808;
+}
+main h3 {
+	font-family: 'Montserrat';
+	color: black;
+	font-size: 1em
+	padding: 5%
+} 
+main h4 {
+	font-family: 'Montserrat';
+	color: white;
+	font-size: 1.5em
+	padding: 5%
+}
+
+.card{
+	background-color: #6b0808;
+}
+
+
+/* card */
+.card-body .form-check {display: inline; margin-left: 10px;}
+.card-header b > a, .card-text > b > a, li > b > a
+.card-text > span {display: inline-block; width: 200px;}
+aside .card:hover, .card-tool:hover, .card-item:hover, .card-related-item:hover {box-shadow: 0px 5px 40px -10px rgba(122, 144, 173, .9); -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);}
+
+/* card tool */
+.card-tool {height: 350px;}
+.card-tool > .card-body > .card-text {height: 215px;}
+.card-tool > .card-body > .btn {display: block; margin: 0 auto;}
+.card-tool > .card-body > h3 {font-size: 1.5em;}
+
+.row {
+	padding-bottom: 2%;
+}
+.col-md-2 {
+	background-color: rgb(255, 255, 255, 0.4); 
+	color: black;
+}
+.col-md-3 {
+	background-color: rgb(255, 255, 255, 0.4); 
+	color: black;
+}
+
+footer {
+	font-family: 'Montserrat';
+	color: black;
+	background-color: #f8f9fa;
+	padding: 2%;
+	text-align: left;
+}
+footer a:link {
+	color: grey;
+}
+footer a:visited {
+	color: darkgrey;
+}

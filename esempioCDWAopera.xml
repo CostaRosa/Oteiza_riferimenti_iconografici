@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Oteiza riferimenti iconografici">>
+	<library xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd" xml:id="Oteiza riferimenti iconografici">
 
 
 		<cdwalite:objectWorkTypeWrap>
@@ -58,7 +58,7 @@
 
         <cdwalite:locationWrap>
 			<cdwalite:locationSet>
-				<cdwalite:workID type="objectId">817.1935</cdwalite:locationName>
+				<cdwalite:workID type="objectId">817.1935</cdwalite:workID>
 			</cdwalite:locationSet>
 		</cdwalite:locationWrap>
 

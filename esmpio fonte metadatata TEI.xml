@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Estratto da: "Oteiza: proposito experimental / exposicion organizada por la Fundacion Caja de Pensiones"</title>
+      </titleStmt>
+      <respStmt>
+      <resp>editor</resp>
+      <name xml:id="#">None</name>
+      </respStmt>
+      <publicationStmt>
+      <p>Si sceglie di digitalizzare e metadatare un estratto - un intervento dell'artista Jorge Oteiza - dal catalogo di una sua mostra personale per progetto di studio e indicizzazioni delle fonti iconografiche dell'artista</p>
+      </publicationStmt>
+      <sourceDesc>
+        <title>Oteiza : proposito experimental / exposicion organizada por la Fundacion Caja de Pensiones</title>
+        <author>Jorge Oteiza</author>
+        <publisher>Fundación Caja de Pensiones</publisher>
+        <pubPlace>Madrid</pubPlace>
+        <date>1998</date>
+      </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language id="esp">Spagnolo</language>
+    </langUsage>
+    <textClass>
+      <keywords cheme="CDD">
+        <term> 709.0400744651 BELLE ARTI E ARTI DECORATIVE. XX secolo, 1900-1999. Musei, collezioni, esposizioni. Spagna nordorientale</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <item>Digitalizzazione</item>
+    <date>21.10.2021</date>
+    <respStmt>
+      <name>Costanza Rosa</name>
+    </respStmt>
+    <item>Codifica XML - Codifica manuale</item>
+    <date>21.10.2021</date>
+    <respStmt>
+      <resp>Marcatura</resp>
+      <name xml:id="CR">Costanza Rosa</name>
+    </respStmt>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<p>Voy a comenzar con el año 58, el período creador más importante de mi vida.Por primera vez voy a contar con un taller y voy a vivir dentro de él. En agosto, al ordenar mi modesto envío para <name type="place" resp="CR">Brasil</name>, puse en orden también mi pensamiento experimental. Confiaba encontrarme con el pensamiento en la situación estética más avanzada y clara con que un escultor hoy pretende organizar su trabajo. Viajé y pude contemplar, sin la engañosa intervención de la fotografía y las revistas de arte, la producción más importante del arte contemporáneo ‐ Obtuve sin ninguna sorpresa por mi parte, el premio internacional de escultura, en septiembre. En octubre he cumplido 49 años. Voy a hacer un Necesitaba. Después de toda una vida de artación y sufrimientos por no poder concentrarme materialmente en la realización de mi escultura, ahora que iba a poderme aislar en mi trabajo, necesitaba cierta serenidad de espíritu, de confianza de los demás, y ya la tengo. Tomo posesiónde esta paz que nunca he conocido, y voy a intentar con ella mirarme observarme a mi mismo, por primera vez, hacer un balance brevísimo de lo que tengo o creo tener y de lo que intento y cómo concretamente lo voy a intentar, cómo serenamente he de comenzar estos 8 meses de trabajo en que debo preparar mi exposición.</p>
+<p>Mi primer descubrimiento es que esta serena y vigilante confianza en mí, es como otra persona conmigo. Ahora somos dos. Salgo de mí y me observo. Contemplo por primera vez al escultor y repaso su obra y la obra de los artistas contemporáneos que tan de cerca ha vivido el escultor. Resultado: creo en mí y creo en mí como si fuese el único escultor que queda sobre la tierra y que se dispusiera a comenzar la escultura contemporánea. Pero ¿y mi obra? ¿y la obra de los escultores y pintores en la actualidad? Por esto digo que me pareciera que tuviera que recomenzar la escultura contemporánea: nada de lo que hoy hemos hecho me interesa. Pero hasta hace unos días me ha interesado todo, hasta en el informalismo he querido ver una sincera y hasta poderosa inclinación del corazón humano por encontrar un camino para la verdad de la creación. Esto es otra cosa. He llegado a mi propósito experimental de mi envío a <name type="place" resp="CR">Brasil</name>, hasta las razones espirituales y primeras de la justificación objetiva, concreta, de la obra de arte. Quizá toda la búsqueda de mi vida de escultor ha sido la justificación del propósito creador en los términos estéticos de la creación. Ahora la tengo y no veo con los mismos ojos, pues lo que antes veía en mí y en los demás, reconozco ahora que eran aspectos técnicos y casos problemas secundarios de la creación. Ahora ya sé nuevamente para qué se ha de hacer la obra hpy y con qué. Ahora yo soy este espectador que sabe. Y veo mis cosas y las de los demás. Y nada de todo esto apruebo. Tengo que hacer esta confesión: Ni una sola escultura o puntura contemporánea – me refiero al único arte actual, el abstracto, en cualquiera de sus direcciones – está propuesta y mucho menos lograda, como para que un espectador actual verdadero, la soporte o pueda utilizar espiritualmente, ante su vista. Yo no aguanto este espectáculo de vaciedad. Me sorprendo desinteresado de toda nuestra contemporánea producción. En mi balance, en mi corazón – ahora es ya la hora de hablar con el corazón – es la obra en que la inteligencia transporta su corazón – sólo conservo como histórica realidad, algunas palabras, alguna frase, de 3 o cuatro artistas, el Cuadrado blanco sobre blanco de <name type="persona" resp="#CR">Malevitch</name>, algún fragmento de una estatua o de un cuadro y en el suelo de mi taller algún planteo mío último y una estela funeraria, la de <name type="persona" resp="#CR">Couzinet</name> y la construcción vacía con las 3 unidades positivo‐negativo. Pero en el suelo. En una habitación museo del período figurativo anterior a los abstractismos: 2 cuadros del cubismo, uno de <name type="persona" resp="#CR">Juan Gris</name> con una intención oculta de cubismo curvo, y el <name type="place" resp="CR">Guernika</name> un cuadro del período siguiente purista y el Guernika. Me estoy refiriendo no a la historia experimental, sino a la historia del arte. Por esto, en otra habitación colocaría el Cuadrado blanco sobre blanco de <name type="persona" resp="#CR">Malevitch</name> y un <name type="persona" resp="#CR">Mondrian</name>. Me refiero a la obra de arte entera, fundamento metafísico y solución espacial – para el hombre actual entero frente a la necesidad espiritual de la obra de arte. Todo lo demás, decoración y mecánica superficial. Frente al hombre nuevo total, la obra de arte total, no importa el grado de su evolución. Esta obra total es la que es ya hora de abordar. En qué radica esta totalidad y cómo proyecto el abordarla en <name type="place" resp="CR">Irún</name>?</p>
+<p> Llamo arte total, al planteo cabal de la obra como organismo estéticamente entero, a la obra como servicio espiritual para la circunstancia espiritual histórica contemporánea del hombre contemporáneo.</p>
+<l>Desde el E la obra de arte ha sido...</l>
+<l>Hoy, Hombre naturaleza, angustia combatir</l>
+<l>Naturaleza de la obra: expansión o flotabilidad</l>
+<l>Ecuación existencia estética</l>
+<l>Adecuación de la técnica a un propósito espiritual</l>
+entra el habitante. El hombre viene del mundo naturaleza, de la ciudad ocupada, trae algo común a todos: la angustia, la fatiga y viene con el deseo de
+hallar un sitio en donde aislarse, sentirse como ser individual y libre, necesita un espacio en donde instalar con su cuerpo, su propio espíritu. Aquí es donde
+en el espacio de la arquitectura y desde el<p>Me instalo en la función de la arquitectura. La pintura de caballete ha saltado al muro y lo ha desocupado. El color del muro es gris. La habitación está vacía y
+la, puede surgir la obra de arte, es decir, donde un sitio del espacio arquitectónico – en 2 o 3 dimensiones – puede convertirse en escultura o pintura. 1 Finalidad de esta creación presencia plástica concreta: ampliar el servicio espiritual de la arquitectura acondicionarla al alma del habitante hombre, del mismo modo, que un aparato acondicionador del aire, cuida en el terreno material, de la temperatura y respirabilidad del aire espacio. Estatua o pintura como objeto, mueble o aparato destinado al alma del hombre, para recibirla, sanar su angustia, curar
+su muerte.</p>
+<p>Naturaleza y garantía estética de estas creaciones. Las condiciones espaciales de la obra de arte, proceden de la naturaleza espacial de la arquitectura. El espacio que en la arquitectura permanece aun por razones espirituales más que materiales, desocupado, cuando ha sido ocupado por el
+hombre y las cosas que cuya compañía le es necesaria por razones materiales para vivir dentro de él, ese espacio que queda libre es donde la naturaleza espacial de la arquitectura coincide con la de la estatua y la pintura. Hoy cuando se dice que la pintura pasa del caballete al muro, no debemos entender que el pintor va a trasladar su pintura, más o menos lógicamente conformada, del caballete a la pared, sino que el arquitecto para definir esa pared ha de pensar plásticamente – integración del arquitecto y pintor – con el objeto de solucionarla por el color como una superficie plana ocupada o desocupada. (el planco desocupa, atrasa el plano. El negro la ocupa, lo que equivale a adelantar el plano. El gris la deja neutra. Por esto he afirmado que el gris es el color fundamental del muro) el punto de coincidencia de plano y color. En cuando al espacio interior de la arquitectura que el calculo del arquitecto – integración de arquitecto y escultor – considera por razones espirituales que debe reducir o ampliar, esta es la región espacial del escultor. Cuando estas condiciones espirituales del espacio arquitectónico han sido resueltas, debemos considerar que hay integración de arquitectura con escultura y pintura o en términos más claros, que la arquitectura en principio no necesita de creación o agregados concretamente de escultura o de pintura. Pero al mismo tiempo que esta cálculo estético solución estética en la arquitectura, hace innecesaria la pintura o escultura, tampoco la rechazan si el habitante por su necesidad espiritual, la necesita.</p>
+</body>
+</text>
+</TEI>
